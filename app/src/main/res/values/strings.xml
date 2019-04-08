@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tracking_Friend</string>
+    <string name="title_activity_friends_location_tracking">Map</string>
+</resources>

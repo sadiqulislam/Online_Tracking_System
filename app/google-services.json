@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "338586350633",
+    "firebase_url": "https://trackingfriend-a5c9c.firebaseio.com",
+    "project_id": "trackingfriend-a5c9c",
+    "storage_bucket": "trackingfriend-a5c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338586350633:android:ab48143053f4ca50",
+        "android_client_info": {
+          "package_name": "com.example.ckbur.tracking_friend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338586350633-d0a1pp1r0m5hipps5k4bepa87ll33nql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ckbur.tracking_friend",
+            "certificate_hash": "aff80c7ed7be62bb11b7e76a8fa9184406fc879e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLaiyv-bqho6NcPDwFf-0sp4CSSaKve9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338586350633-e5pali9u66cg1oj2g1nphdj3jjgc50ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
