@@ -554,6 +554,7 @@ public class OnlineFriendsList extends AppCompatActivity implements GoogleApiCli
                 break;
             case R.id.action_Logout:
                 CurrentUserRef.removeValue();  //log out performed and offline account.
+                firebase.auth().signOut();       
                 Intent i=new Intent(OnlineFriendsList.this,MainActivity.class);
                 startActivity(i);
 
